@@ -2,7 +2,7 @@
 
 Developed by: Pedro Neves and Pedro Timóteo (BSc Flight Control course project).
 
-I co-developed automatic flight controllers for a Gulfstream V aircraft which follow reference airspeed and ascent speed values and which land the airplane using Instrument Landing System (ILS).
+I co-developed automatic flight controllers for a Gulfstream V aircraft which follow reference airspeed and ascent speed values, and which land the airplane using Instrument Landing System (ILS).
 
 Firstly, it is necessary to run the 'GulfV_main.m' script. Then, open Simulink and run:
 
